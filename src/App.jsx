@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-    New Website Coming Soon!!!!!!!!!
+    New Website Here Sooooon!!!!!!!!!
       {/* <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
