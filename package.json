@@ -2,7 +2,7 @@
   "name": "moduleplus",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://mikegroves22.github.io/moduleplus/",
+  "homepage": "https://www.moduleplus.co.uk",
   "type": "module",
   "scripts": {
     "predeploy" : "npm run build",
